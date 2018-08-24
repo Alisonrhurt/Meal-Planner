@@ -1,0 +1,2 @@
+C:\Workspace\Teams\capstone-team-alpha\Capstone.Web.Tests\obj\Debug\Capstone.Web.Tests.csprojAssemblyReference.cache
+C:\Workspace\Teams\capstone-team-alpha\Capstone.Web.Tests\obj\Debug\Capstone.Web.Tests.csproj.CoreCompileInputs.cache
